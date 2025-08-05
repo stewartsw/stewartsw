@@ -17,11 +17,11 @@
 ## 🏆 Contribution Rating
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stewartsw&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stewartsw&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stewartsw&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stewartsw&theme=radical" alt="Productive Time" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=stewartsw&icon=0&color=0)](https://visitcount.itsvg.in)
