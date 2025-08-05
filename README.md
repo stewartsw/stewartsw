@@ -13,15 +13,3 @@
 # GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stewartsw&theme=radical)<br/>
-
-## 🏆 Contribution Rating
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stewartsw&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stewartsw&theme=radical" alt="Productive Time" />
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=stewartsw&icon=0&color=0)](https://visitcount.itsvg.in)
