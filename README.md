@@ -61,50 +61,5 @@ I'm a passionate full-stack developer who loves building innovative solutions an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stewartsw&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stewartsw&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stewartsw&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 Detailed Stats
-
-<div align="center">
-  
-  ### **stewartsw (Stewart Wang)**
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 25px; border-radius: 10px; color: white; text-align: center; min-width: 120px;">
-      <div style="font-size: 24px; font-weight: bold;">⭐ 5</div>
-      <div style="font-size: 14px;">Total Stars Earned</div>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px 25px; border-radius: 10px; color: white; text-align: center; min-width: 120px;">
-      <div style="font-size: 24px; font-weight: bold;">📝 8</div>
-      <div style="font-size: 14px;">Total Commits (2025)</div>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px 25px; border-radius: 10px; color: white; text-align: center; min-width: 120px;">
-      <div style="font-size: 24px; font-weight: bold;">🔀 18</div>
-      <div style="font-size: 14px;">Total PRs</div>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px 25px; border-radius: 10px; color: white; text-align: center; min-width: 120px;">
-      <div style="font-size: 24px; font-weight: bold;">🐛 16</div>
-      <div style="font-size: 14px;">Total Issues</div>
-    </div>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; text-align: center; margin: 20px 0; max-width: 400px; margin-left: auto; margin-right: auto;">
-    <div style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">613</div>
-    <div style="font-size: 16px;">Contributions in 2025</div>
-  </div>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=stewartsw&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&hide=stars,commits,prs,issues,contributions" alt="GitHub Stats" />
 </div>
