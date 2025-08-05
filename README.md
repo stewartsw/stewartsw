@@ -4,7 +4,7 @@
 
 🌱 Computer Science graduate & final semester of Mathematics<br>
 💬 Full stack developer from Syd!<br>
-🔧 Currently working on OpenLaw - building legal tech solutions<br>
+🔧 Currently working at OpenLaw - building legal tech solutions<br>
 
 # Tech:
 
