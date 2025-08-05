@@ -13,7 +13,15 @@
 # GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stewartsw&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api?username=stewartsw&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stewartsw&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 Contribution Rating
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stewartsw&theme=radical" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stewartsw&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=stewartsw&icon=0&color=0)](https://visitcount.itsvg.in)
